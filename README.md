@@ -8,5 +8,5 @@ This is the colony of my repositories.
 - 🤔 I’m looking for help with measurement validity in NLP research and causality issues. 
 - 💬 Ask me about NLP and SNA methods, carbon outsourcing, and how product reproducibility shapes it's global trade network. 
 - 📫 How to reach me: dhiraanan3@gmail.com
-- 😄 Pronoun: Her
--->
+- 😄 Pronoun: She/Her
+
