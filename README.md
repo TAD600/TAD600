@@ -10,5 +10,4 @@ This is the colony of my repositories.
 - 💬 Ask me about NLP and SNA methods, carbon outsourcing, and how product reproducibility shapes it's global trade network.
 - 👀 Currently I'm dovetailing multiple languages in a single project due to disfluency in one particular language. Any suggestion on my codes is most welcome🙏. 
 - 📫 In case you face any issue while trying to run my codes, reach me: dhiraanan3@gmail.com
-- 😄 Pronoun: She/Her
 
