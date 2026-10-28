@@ -6,8 +6,7 @@ This is the colony of my repositories.
 - 🌱 I’m currently learning how different corridors of international population migration network can impact the developmental convergence of two nations differently. 
 - 👯 I’m looking to collaborate on any political scientific issues or anything interesting using social media data. 
 - 🤔 I’m looking for help with measurement validity in NLP research and causality issues. 
-- 💬 Ask me about NLP methods, social network analysis, 
+- 💬 Ask me about NLP and SNA methods, carbon outsourcing, and how product reproducibility shapes it's global trade network. 
 - 📫 How to reach me: dhiraanan3@gmail.com
 - 😄 Pronoun: Her
-- ⚡ Fun fact: Once in a while, I paint fantasy portraits and imaginations. 
 -->
