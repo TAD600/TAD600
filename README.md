@@ -8,7 +8,7 @@ This is the colony of my repositories.
 - 👯 I’m looking to collaborate on any political scientific issue or anything interesting using social media data. 
 - 🤔 I’m looking for help with measurement validity in NLP research and causality issues. 
 - 💬 Ask me about NLP and SNA methods, carbon outsourcing, and how product reproducibility shapes it's global trade network.
-- 👀 Currently I'm dovetailing multiple language in a single project due to disfluency in one particular language. Lack of enough training in coding convention have morphed me into a constant feedback seeker. Any suggesstion on my codes is most welcome🙏. 
+- 👀 Currently I'm dovetailing multiple language in a single project due to disfluency in one particular language. Lack of enough training in coding convention is also acknowledged. Any suggestion on my codes is most welcome🙏. 
 - 📫 In case you face any issue while trying to run my codes, reach me: dhiraanan3@gmail.com
 - 😄 Pronoun: She/Her
 
