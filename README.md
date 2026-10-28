@@ -1,16 +1,13 @@
-## Hi there 👋
+## Tahia Anan Dhira 
 
-<!--
-**TAD600/TAD600** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the colony of my repositories. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m trying to figure out gender stereotype in a discourse analysis setup using YouTube comments on Bangladeshi artists. 
+- 🌱 I’m currently learning how different corridors of international population migration network can impact the developmental convergence of two nations differently. 
+- 👯 I’m looking to collaborate on any political scientific issues or anything interesting using social media data. 
+- 🤔 I’m looking for help with measurement validity in NLP research and causality issues. 
+- 💬 Ask me about NLP methods, social network analysis, 
+- 📫 How to reach me: dhiraanan3@gmail.com
+- 😄 Pronoun: Her
+- ⚡ Fun fact: Once in a while, I paint fantasy portraits and imaginations. 
 -->
